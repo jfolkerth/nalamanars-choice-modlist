@@ -71,4 +71,4 @@ Some of the alternate starts work better than others with an unleveled world, es
 
 ## Azurite Config Spell ##
 
-If you're annoyed by config spells like I am, there's an easy way to remove it. Once you start up the game, use the Azurite Meditation power and configure the weather how you like. Afterwards, go to the console (opened with ~ by default). Type help azurite 0. This should get you a list of ids - look for the meditation power. Take its spell id and type player.removespell <id>. You can save this id somewhere for easy reference if you ever want it back and it should remain available for search with the help function.
+If you're annoyed by config spells like I am, there's an easy way to remove it. Once you start up the game, use the Azurite Meditation power and configure the weather how you like. Afterwards, go to the console (opened with ~ by default). Type help azurite 0. This should get you a list of ids - look for the meditation power. Take its spell id and type player.removespell id. You can save this id somewhere for easy reference if you ever want it back and it should remain available for search with the help function.
